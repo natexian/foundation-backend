@@ -1,4 +1,4 @@
-name: foundation-backend
+name: @natexian/foundation-backend
 
 on:
   push:
