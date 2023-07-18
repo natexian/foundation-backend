@@ -1,4 +1,4 @@
-name: edtech-foundation-backend
+name: foundation-backend
 
 on:
   push:
