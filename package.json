@@ -1,5 +1,5 @@
 {
-  "name": "@natexian/edtech-foundation-backend",
+  "name": "@natexian/foundation-backend",
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
