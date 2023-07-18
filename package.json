@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@natexian"
+    "@natexian:registry": "https://npm.pkg.github.com/"
   },
   "files": [
     "dist"
