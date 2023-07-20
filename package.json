@@ -1,6 +1,6 @@
 {
   "name": "@natexian/foundation-backend",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "publishConfig": {
     "@natexian:registry": "https://npm.pkg.github.com/"
